@@ -1,2 +1,5 @@
 # PersonalRepository
 自定义实现一个springmvc
+
+
+目的：通过自己实现一个mvc框架，来充分理解springmvc的运行流程和原理
